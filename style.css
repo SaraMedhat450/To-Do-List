@@ -1,0 +1,23 @@
+body{
+    height: 100vh;
+}
+
+.none{
+    display: none;
+}
+
+.checked{
+    background-color: rgb(202, 180, 224);
+    text-decoration: line-through;
+}
+
+.background{
+    background-image: url('./img.avif');
+    background-repeat: no-repeat;
+    background-size: 200vh 100vh;
+    object-fit: cover;
+}
+
+.marg{
+    margin-bottom: 300px;
+}
